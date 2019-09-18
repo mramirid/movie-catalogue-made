@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rv_item_margin">12dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="item_detail_margin">26dp</dimen>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Acara TV</string>
+    <string name="favorites">Favorit</string>
+    <string name="name">Nama</string>
+    <string name="genres_label">Genre</string>
+    <string name="genres">Genre 1, Genre 2, Genre 3, …</string>
+    <string name="year">Tahun</string>
+    <string name="language">Bahasa</string>
+    <string name="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora nobis reprehenderit, voluptate sint sit itaque repudiandae eligendi debitis beatae, laudantium eaque numquam officia. Laborum earum nisi quae nihil odio minima?Laudantium eveniet ipsum provident veniam labore, rerum tempora dolorum, vero hic mollitia necessitatibus nesciunt nam esse perspiciatis facere iste debitis suscipit? Assumenda vero asperiores officia a nostrum deleniti ipsum laborum.</string>
+    <string name="change_language_settings">Bahasa</string>
+    <string name="request_items_failed">Tidak dapat menerima data items</string>
+    <string name="request_genres_failed">Tidak dapat menerima data genres</string>
+    <string name="added_to_favorites">Ditambahkan ke daftar favorit</string>
+    <string name="removed_from_favorites">Dihapus dari daftar favorit</string>
+    <string name="empty_favorites">Tidak ada favorit %s di database</string>
+    <string name="settings">Pengaturan</string>
+    <string name="change_reminder_settings">Pengingat</string>
+    <string name="search">Cari</string>
+    <string name="refresh">Muat ulang</string>
+    <string name="request_failed">Request gagal :(</string>
+    <string name="no_items_match">Tidak ada yang cocok dengan pencarian anda</string>
+    <string name="widget_empty_favorites">Tidak ada favorit di database</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="daily_reminder_description">Ini akan mengingatkan anda untuk kembali ke Katalog Film setiap jam 7 pagi</string>
+    <string name="release_today_reminder">Pengingat Film Rilis Hari ini</string>
+    <string name="release_today_reminder_description">Ini akan mengingatkan anda film apa yang rilis hari ini setiap jam 8 pagi</string>
+    <string name="daily_notif_message">Katalog Film merindukan anda!</string>
+    <string name="has_been_release">%s dirilis hari ini!</string>
+    <string name="alarm_turned_on">%s dinyalakan</string>
+    <string name="alarm_turned_off">%s dimatikan</string>
+</resources>

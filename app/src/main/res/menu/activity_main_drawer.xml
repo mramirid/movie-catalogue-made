@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/favorites"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/favorites" />
+    </group>
+
+    <item android:title="@string/settings" android:checkable="true">
+        <menu>
+            <item
+                android:id="@+id/language_settings"
+                android:icon="@drawable/ic_language_black_24dp"
+                android:title="@string/change_language_settings" />
+            <item
+                android:id="@+id/remider_settings"
+                android:icon="@drawable/ic_alarm_black_24dp"
+                android:title="@string/change_reminder_settings"/>
+        </menu>
+    </item>
+</menu>
