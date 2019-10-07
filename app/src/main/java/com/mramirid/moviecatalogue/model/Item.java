@@ -54,7 +54,7 @@ public class Item implements Parcelable {
             JSONArray listIdGenres = item.getJSONArray("genre_ids");
             StringBuilder stringBuilder = new StringBuilder();
             for (int i = 0; i < listIdGenres.length(); ++i)
-                stringBuilder.append(listIdGenres.getInt(i)).append("_");
+                stringBuilder.append(listIdGenres.getInt(i)).append(",");
             genres = stringBuilder.toString();
         } catch (JSONException e) {
             e.printStackTrace();

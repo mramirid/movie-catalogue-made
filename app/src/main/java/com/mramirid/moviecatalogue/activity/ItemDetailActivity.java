@@ -177,7 +177,7 @@ public class ItemDetailActivity extends AppCompatActivity {
 		}
 
 		if (item.getGenres() != null) {
-			String[] genresId = item.getGenres().split("_");
+			String[] genresId = item.getGenres().split(",");
 
 			StringBuilder stringBuilder = new StringBuilder();
 			for (String genreId : genresId) {
