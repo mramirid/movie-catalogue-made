@@ -1,10 +1,15 @@
 # Movie Catalogue MADE
 
-Proyek akhir kelas Menjadi Android Developer Expert (Dicoding). 
+Proyek akhir kelas Menjadi Android Developer Expert (Dicoding)
 
-Project submission (1, 3 dan 4) sudah saya upload di branch lain.
+> API KEY The Movie Database (TMDb) pada file gradle.properties perlu diisi
 
-> API KEY The Movie Database (TMDb) pada file gradle.properties perlu diisi.
+# Submission Lainnya?
+
+- [Repository Submission 1](https://gitlab.com/mramirid/movie-catalogue-made-1.git)
+- [Repository Submission 2](https://gitlab.com/mramirid/movie-catalogue-made-2.git)
+- [Repository Submission 3](https://gitlab.com/mramirid/movie-catalogue-made-3.git)
+- [Repository Submission 4](https://gitlab.com/mramirid/movie-catalogue-made-4.git)
 
 <hr>
 
