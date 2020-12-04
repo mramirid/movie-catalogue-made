@@ -10,6 +10,8 @@ Proyek akhir kelas Menjadi Android Developer Expert (Dicoding)
 - [Repository Submission 2](https://gitlab.com/mramirid/movie-catalogue-made-2.git)
 - [Repository Submission 3](https://gitlab.com/mramirid/movie-catalogue-made-3.git)
 - [Repository Submission 4](https://gitlab.com/mramirid/movie-catalogue-made-4.git)
+- Repository ini adalah Submission 5
+- [Repository Consumer App untuk Submission 5](https://gitlab.com/mramirid/movie-catalogue-made-5-consumer-app.git)
 
 <hr>
 
