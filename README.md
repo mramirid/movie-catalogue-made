@@ -1,10 +1,12 @@
-# MovieCatalogue
+# Movie Catalogue MADE
 
-Proyek akhir kelas Menjadi Android Developer Expert (Dicoding). Sewaktu-waktu project submission yang lain bakal saya upload, bisa dilihat di branch.
+Proyek akhir kelas Menjadi Android Developer Expert (Dicoding). 
+
+Project submission (1, 3 dan 4) sudah saya upload di branch lain.
 
 > API KEY The Movie Database (TMDb) pada file gradle.properties perlu diisi.
 
-<br>
+<hr>
 
 ## Halaman utama
 <center>
